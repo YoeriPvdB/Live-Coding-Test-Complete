@@ -1,0 +1,7 @@
+C:\Users\Yoeri\Desktop\SN - Live Coding Test Complete\SN - Live Coding Test Complete\bin\Debug\SN - Live Coding Test Complete.exe.config
+C:\Users\Yoeri\Desktop\SN - Live Coding Test Complete\SN - Live Coding Test Complete\bin\Debug\SN - Live Coding Test Complete.exe
+C:\Users\Yoeri\Desktop\SN - Live Coding Test Complete\SN - Live Coding Test Complete\bin\Debug\SN - Live Coding Test Complete.pdb
+C:\Users\Yoeri\Desktop\SN - Live Coding Test Complete\SN - Live Coding Test Complete\obj\Debug\SN - Live Coding Test Complete.csproj.AssemblyReference.cache
+C:\Users\Yoeri\Desktop\SN - Live Coding Test Complete\SN - Live Coding Test Complete\obj\Debug\SN - Live Coding Test Complete.csproj.CoreCompileInputs.cache
+C:\Users\Yoeri\Desktop\SN - Live Coding Test Complete\SN - Live Coding Test Complete\obj\Debug\SN - Live Coding Test Complete.exe
+C:\Users\Yoeri\Desktop\SN - Live Coding Test Complete\SN - Live Coding Test Complete\obj\Debug\SN - Live Coding Test Complete.pdb
